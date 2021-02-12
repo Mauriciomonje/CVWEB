@@ -1,0 +1,40 @@
+/*listas*/
+
+body{
+    background: beige;
+    height: 100%;
+    background-repeat: no-repeat;
+    background: url(fondo.JPG) no-repeat center center fixed;
+    background-size: 100% 100%;
+    
+}
+ol{
+    border-color: rgb(153, 223, 241);
+    font-size: 10px;
+    margin: 1px;
+    list-style: upper-latin;
+    text-shadow: 5px 0px 5px rgb(238, 105, 209);
+}
+.cvs{
+     
+    font-size: 8vh;
+    padding-top: 12%;
+    padding-left: 38%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background: -webkit-linear-gradient(rgb(168, 212, 241),rgba(140, 106, 233, 0.979));
+    -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+    color: transparent;
+
+}
+.cvs a{
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.658);
+    text-decoration: none;/*sirve para eliminar el subrayado de los enlaces
+    
+}
+
+
+
+
+
+/*back ground-atachment: fixed sirve para dejar el fondo fijo y que se mueva el contenido*/
