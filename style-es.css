@@ -1,9 +1,8 @@
- .fondo{ 
-     
-     background-color: rgb(233, 203, 247);
-     background: -webkit-linear-gradient(rgba(246, 246, 247, 0.74),rgb(94, 92, 97));
+ body{ 
+     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.74),rgb(27, 25, 31));
     }
 .Title{
+    border-radius: 5px;
     background-color: cornflowerblue;
     color: black;
     margin-left: 25px;
@@ -14,10 +13,13 @@
 }
 .columna{
     font-size: 30px;
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-left: 1%;
     list-style-image: url('hogar.png');
+}
+label h1 li:hover{
+    color: cadetblue;
 }
 #activar ~ .desplegable {
     
@@ -50,8 +52,9 @@ h3{
     background: -webkit-linear-gradient(rgb(83, 145, 170),rgb(182, 217, 228));
     border-radius: 10px;
 }
+
 h1{
-    
+    color: cornsilk;
     font-size: 30px;
     vertical-align: middle;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;

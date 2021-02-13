@@ -4,7 +4,7 @@ body{
     background: beige;
     height: 100%;
     background-repeat: no-repeat;
-    background: url(fondo.JPG) no-repeat center center fixed;
+    background: url(fondo.jpg) no-repeat center center fixed;
     background-size: 100% 100%;
     
 }
@@ -29,9 +29,8 @@ ol{
 }
 .cvs a{
     text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.658);
-    text-decoration: none;/*sirve para eliminar el subrayado de los enlaces
-    
-}
+    text-decoration: none;
+    }/*sirve para eliminar el subrayado de los enlaces
 
 
 
